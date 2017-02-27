@@ -1,0 +1,16 @@
+{
+  "name":"订单",
+  "level":"1",
+  "children": {
+    "orders":{
+    	"name":"订单管理",
+        "level":"2",
+    	"children":{
+    		"refund":"退款",
+    		"validate":"验证消费",
+    		"validate_msg":"验发消息"
+    	}
+    }
+
+  }
+}

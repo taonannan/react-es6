@@ -1,0 +1,18 @@
+{
+  "name":"场馆",
+  "level":"1",
+  "children": {
+    "venues":{
+    	"name":"场馆管理",
+        "level":"2",
+    	"children":{
+    		"list":"查看",
+    		"create":"创建",
+    		"edit":"修改",
+        "delete":"删除",
+        "close":"设置闭馆信息"
+    	}
+    }
+
+  }
+}

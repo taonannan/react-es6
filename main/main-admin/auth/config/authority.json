@@ -1,0 +1,25 @@
+{
+  "name":"权限",
+  "level":"1",
+  "children": {
+    "role":{
+    	"name":"角色管理",
+        "level":"2",
+    	"children":{
+    		"list":"查看",
+    		"create":"创建",
+    		"edit":"修改"
+    	}
+    },
+    "admin":{
+    	"name":"管理员工",
+        "level":"2",
+    	"children":{
+    		"list":"查看",
+    		"create":"创建",
+    		"edit":"修改"
+    	}
+    }
+
+  }
+}

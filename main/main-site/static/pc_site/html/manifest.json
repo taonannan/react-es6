@@ -1,0 +1,42 @@
+{
+  "combo": false,
+  "comboPattern": "/co??%s",
+  "hash": "f0ab3c",
+  "res": {
+     "components/header/header.tpl": {
+        "uri": "components/header/header.tpl",
+        "type": "tpl",
+        "deps": [
+          "components/header/header.js",
+          "components/header/header.css"
+        ]
+     },
+      "components/header/header.js": {
+        "uri": "/static/pc_site/script/component/header.js",
+        "type": "js"
+     },
+     "components/header/header.css": {
+        "uri": "/static/pc_site/style/component/header.css",
+        "type": "css"
+     },
+     "components/footer/footer.tpl": {
+        "uri": "components/footer/footer.tpl",
+        "type": "tpl",
+        "deps": [
+          "components/footer/footer.js",
+          "components/footer/footer.css"
+        ]
+     },
+      "components/footer/footer.js": {
+        "uri": "/static/pc_site/script/component/footer.js",
+        "type": "js"
+     },
+     "components/footer/footer.css": {
+        "uri": "/static/pc_site/style/component/footer.css",
+        "type": "css"
+     }
+      
+     
+    
+  }
+}

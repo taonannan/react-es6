@@ -1,0 +1,9 @@
+{
+  "db":{
+    "host": "localhost",
+    "user": "demo",
+    "password": "demo",
+    "database": "rui_public"
+  },
+  "grpc": "localhost:8101"
+}

@@ -1,0 +1,8 @@
+build
+node_modules
+ncp-debug.log
+npm-debug.log
+.sass-cache/
+dist
+.DS_Store
+
